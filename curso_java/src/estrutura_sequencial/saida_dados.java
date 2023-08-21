@@ -1,8 +1,8 @@
-package curso_java;
+package estrutura_sequencial;
 
 import java.util.Locale;
 
-public class Main {
+public class saida_dados {
 
 	public static void main(String[] args) {
 		String product1 = "Computer";
